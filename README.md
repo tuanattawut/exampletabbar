@@ -1,6 +1,6 @@
 # Example Tabbar
 
-- ตัวอย่าง tabbar
+- example tabbar
 - Route newpage
 - RaisedButton
 
